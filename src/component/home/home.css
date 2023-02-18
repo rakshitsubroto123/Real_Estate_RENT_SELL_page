@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  background-color: rgba(231, 181, 227, 0.079);
+}
+
+.outer {
+  align-items: center;
+  margin-left: 120px;
+  width: 1200px;
+}
+
+.outer h2 {
+  margin-top: 40px;
+}
+
+.headsearch {
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.searchbar {
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+  border-radius: 5px;
+  margin-top: 40px;
+}
+
+.property {
+  margin-top: 20px;
+  background-color: #fff;
+}
+
+.prope {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.prope li {
+  list-style: none;
+}
+
+.location {
+  outline: none;
+  border: none;
+}
+
+.line {
+  height: 30px;
+  width: 1px;
+  background-color: rgba(0, 0, 0, 0.273);
+}
+
+.text {
+  font-size: 15px;
+  font-weight: 200;
+}
+
+.wrapper {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.btn {
+  color: rgba(36, 34, 37, 0.975);
+  border-radius: 5px;
+  margin: 5px 5px;
+  font-weight: 600;
+  padding: 0.8rem 2.3rem;
+  font-size: 18px;
+  border: 2px solid #1d2ece;
+  transition: 0.3 ease-in-out;
+  cursor: pointer;
+}
+
+.btn {
+  background-color: #1d2ece;
+  color: #fff;
+}
+
+.cardItem{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 30px;
+  column-gap: 50px;
+}
