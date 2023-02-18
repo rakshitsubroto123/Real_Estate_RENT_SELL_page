@@ -35,4 +35,4 @@ npm start
 <br>
 <p align="center">
 <image src= "src/assets/images/web-2.png" width="600"> 
-</p>  # Real_Estate_RENT_SELL_page
+</p>  
