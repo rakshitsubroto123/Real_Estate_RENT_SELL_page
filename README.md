@@ -11,6 +11,7 @@ Here are the steps which need to be followed to successfully run the react appli
 Some of the prerequisities for this projects are:
 
 - npm
+- 
 `npm install -g npm`
 
 ### Instalation
@@ -19,7 +20,7 @@ Here is the way to run the file:
 
 - Clone the repo
 
-`https://github.com/rakshitsubroto123`
+`https://github.com/rakshitsubroto123/Real_Estate_RENT_SELL_page`
 
 - Copy the code in terminal
 
