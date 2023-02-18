@@ -11,7 +11,7 @@ Here are the steps which need to be followed to successfully run the react appli
 Some of the prerequisities for this projects are:
 
 - npm
-- 
+
 `npm install -g npm`
 
 ### Instalation
